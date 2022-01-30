@@ -1,3 +1,9 @@
+# This is a TextUtils WebApp Projects
+TextUtils is a word counter and a character counting utility which can be used to manipulate your text in the way you want. You can remove extra spaces, copy the manipulated text as well as convert your text from Uppercase to Lowercase and Lowercase to Uppercase.
+# Demonstration of my Project
+<img width="960" alt="textutils" src="https://user-images.githubusercontent.com/73652119/151688880-bf269f71-08a6-4c23-ac02-c58c16d9386d.png">
+<img width="960" alt="textutilsdark" src="https://user-images.githubusercontent.com/73652119/151688887-3aa0474e-02ef-4add-84f8-fe659341cf54.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
